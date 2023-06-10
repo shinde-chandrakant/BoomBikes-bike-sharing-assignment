@@ -1,12 +1,12 @@
 # BoomBikes-bike-sharing-assignment
-## Built a multiple linear regression model for the prediction of demand for shared bikes.
+## Built a linear regression model for the prediction of demand for shared bikes.
 
 ![image](https://user-images.githubusercontent.com/94171996/229351677-e11648e5-47d6-4465-a8a4-86b01c87014d.png)
 
 
 ## Problem Statement:  
 
-A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
+A US bike-sharing provider BoomBikes a Mobility Services firm has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
 
 Essentially the company wants :
 - To understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19, by creating a linear model.
